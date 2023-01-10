@@ -1,0 +1,5 @@
+dentro del directorio ejerciciosbash:
+- un directorio con  nombre_apellido 
+- dentro del directorio anterior un directorio por ejercicio ejercicioXX y dentro de este directorio el script de bash con el enunciado y cualquier fichero que sea necesario.
+
+NOTA: Recordad hacer un git pull antes de hacer un git push para sincronizar con lo que han podido subir los compañeros
