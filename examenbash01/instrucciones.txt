@@ -1,0 +1,1 @@
+- el directorio llamado "prueba_vacio" tiene un fichero vacio llamado nada.txt. Se debe a que git no sube directorios vacíos. Hay que borrar el fichero nada.txt una vez clonado para que funcione.
